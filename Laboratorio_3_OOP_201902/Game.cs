@@ -1,6 +1,7 @@
 ﻿using Laboratorio_3_OOP_201902.Cards;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace Laboratorio_3_OOP_201902
@@ -91,6 +92,16 @@ namespace Laboratorio_3_OOP_201902
         public void Play()
         {
             throw new NotImplementedException();
+        }
+
+        public void ReadDecks()
+        {
+            string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName + @"\Files\Decks.txt";
+            StreamReader reader = new StreamReader(path);
+            List<Deck> decks = new List<Deck>();
+
+
+                
         }
     }
 }

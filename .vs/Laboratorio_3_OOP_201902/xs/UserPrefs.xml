@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{21FEC57E-AEC5-4EED-93FA-E8DBC0BFF756}|Default">
+  <MonoDevelop.Ide.ItemProperties.Laboratorio__3__OOP__201902 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio_3_OOP_201902/Game.cs">
+    <Files>
+      <File FileName="Laboratorio_3_OOP_201902/Game.cs" Line="102" Column="1" />
+      <File FileName="Laboratorio_3_OOP_201902/Cards/Card.cs" Line="11" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio_3_OOP_201902" expanded="True">
+            <Node name="Laboratorio_3_OOP_201902" expanded="True">
+              <Node name="Cards" expanded="True" />
+              <Node name="Enums" expanded="True" />
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Laboratorio_3_OOP_201902" expanded="True">
+            <Node name="Laboratorio_3_OOP_201902" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
